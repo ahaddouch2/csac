@@ -1,0 +1,16 @@
+selenium
+2captcha-python
+pyotp
+requests
+beautifulsoup4
+fake-useragent
+google-api-python-client-stubs
+google-auth-oauthlib
+django
+djangorestframework
+django-cors-headers
+django-crispy-forms
+django-debug-toolbar
+crispy-bootstrap5
+google-api-python-client
+filelock

@@ -1,0 +1,9 @@
+{
+	"sms_api_key": "668Abdef8df5916Ae140fe22ec07b450",
+    "sms_end_point":"https://sms-activate.org/stubs/handler_api.php",
+    "country_code": "6",
+    "threads": "20",
+    "nbmsgs":"1",
+    "nbloops":"1",
+    "captcha_api_key":"1a6cb73c60f7d4d0c02c0447863d58b2"
+}
